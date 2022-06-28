@@ -1,5 +1,8 @@
-# ods2021
+# ODS2022
 
-<a href="https://ods2021.opendatasicilia.it/" target="_blank"  Title="Partecipa a #ODS2021! @OpenDataSicilia 2021 / Online Edition: OpenData, Competenze Digitali, Trasparenza, Partecipazione">Raduno Open Data Sicilia: il valore dei dati - 17 Aprile 2021 - Online Edition</a>
+## Task
+Vedi [issues](https://github.com/opendatasicilia/ods2022/issues)
 
-<a href="https://ods2021.opendatasicilia.it/"  Title="Partecipa a #ODS2021! @OpenDataSicilia 2021 / Online Edition: OpenData, Competenze Digitali, Trasparenza, Partecipazione" target="_blank"><img width="1000" src="https://ods2021.opendatasicilia.it/assets/img/ods2021-social_tw.jpg" Title="Partecipa a #ODS2021! @OpenDataSicilia 2021 / Online Edition: OpenData, Competenze Digitali, Trasparenza, Partecipazione" /></a>
+## Documenti
+- [📄 log riunioni](https://docs.google.com/document/d/1BoVDuaRL4yI7OTm7ktBTsZKU5e0nKedMDn4T957z4M0/edit#)
+- [📄 call for proposal & topics](https://docs.google.com/document/d/191iRun2wohbGLmpdDK_gl0p0e_l1Dw2z5qHmAYAI2uY/edit?usp=sharing)
