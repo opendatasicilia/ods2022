@@ -43,3 +43,5 @@
 #header-wrap {
   margin-bottom:100px;
 }
+/*icone social */
+.footer-area .footer-social li .github:hover,  li .facebook:hover,  li .google-plus:hover, li .twitter:hover { background:#eb6067 !important; }
