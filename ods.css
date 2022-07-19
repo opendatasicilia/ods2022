@@ -44,5 +44,5 @@
   margin-bottom:100px;
 }
 /*icone social */
-.footer-area .footer-social li a { color: #fdea00; background:#20d3aa ; }
-.footer-area .footer-social li .github:hover,  li .facebook:hover,  li .google-plus:hover, li .twitter:hover { background:#eb6067 !important; }
+.footer-area .footer-social li a { color: #fff; background:#eb6067 ; }
+.footer-area .footer-social li .github:hover,  li .facebook:hover,  li .google-plus:hover, li .twitter:hover { background:#20d3aa !important; }
