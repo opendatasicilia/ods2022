@@ -48,4 +48,6 @@
 .footer-area .footer-social li .github:hover,  li .facebook:hover,  li .google-plus:hover, li .twitter:hover { background:#20d3aa !important; }
 
 /**/
-@media screen and (min-width: 260px) {  .navbar-expand-lg { background-color: #336699;}} 
+@media screen and (min-width: 220px) {  .navbar-expand-lg { background-color: #336699;}} 
+
+@media (min-width: 220px) and (max-width: 736px) {  .carousel-item {margin-top: 50px;}} 
