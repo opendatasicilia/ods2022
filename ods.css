@@ -46,3 +46,6 @@
 /*icone social */
 .footer-area .footer-social li a { color: #fff; background:#eb6067 ; }
 .footer-area .footer-social li .github:hover,  li .facebook:hover,  li .google-plus:hover, li .twitter:hover { background:#20d3aa !important; }
+
+/**/
+@media screen and (min-width: 260px) {  .navbar-expand-lg { background-color: #336699;}} 
